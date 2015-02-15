@@ -1,0 +1,5 @@
+Title: Events
+
+----
+
+Text: Übersicht der einzelnen Events (aka Detailseiten)

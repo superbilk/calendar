@@ -31,12 +31,6 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 c::set('languages', array(
   array(
-    'code'    => 'en',
-    'name'    => 'English',
-    'locale'  => 'en_US',
-    'url'     => '/en',
-  ),
-  array(
     'code'    => 'de',
     'name'    => 'Deutsch',
     'default' => true,
