@@ -14,4 +14,4 @@ Keywords: Kirby,CMS,file-based
 
 ----
 
-Copyright: © 2015 by (link: http://# text: Christian) | (link: http://getkirby.com/made-with-kirby-and-love text: Made with Kirby and **♥**)
+Copyright: © 2015 by (email: chris@superbilk.org text: Christian) | (link: http://getkirby.com/made-with-kirby-and-love text: Made with Kirby and **♥**)
