@@ -12,7 +12,6 @@
     <!-- Bootstrap -->
     <?php echo css(array(
       'assets/css/bootstrap.min.css',
-      'assets/css/bootstrap-theme.min.css',
       'assets/css/main.css',
     )) ?>
 
